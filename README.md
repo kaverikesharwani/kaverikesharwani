@@ -4,7 +4,11 @@ Hey there !!
 I’m Kaveri Kesharwani, a Computer Science graduate focused on full-stack web development and building practical applications. I enjoy understanding how software works end-to-end through project-based learning.
 
 🌐 Socials:
-[Facebook](https://facebook.com/Facebook: https://facebook.com/Kaveri Kesharwani) [Instagram](https://instagram.com/Instagram: https://instagram.com/kaverikesharwani_) LinkedIn [Pinterest](https://pinterest.com/Pinterest: https://pinterest.com/Kaverikesharwani) Quora YouTube [Mastodon](https://mastodon.social/@kaveri Kesharwani) email
+Facebook:- https://facebook.com/Kaveri Kesharwani
+Instagram:- https://instagram.com/Instagram: https://instagram.com/kaverikesharwani_ 
+LinkedIn:- https://www.linkedin.com/in/kaveri-kesharwani-a4b496393/
+Pinterest:- https://pinterest.com/Kaverikesharwani
+YouTube :- https://www.youtube.com/@kaverikesharwani9249
 
 💻 Tech Stack:
 Java HTML5 MySQL CSS3 JavaScript TypeScript Firebase Render Netlify Vercel Bootstrap jQuery JWT Express.js Next JS NodeJS React React Router MySQL MongoDB Supabase Canva Adobe Photoshop Figma GitHub Git Postman Power Bi
