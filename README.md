@@ -10,22 +10,7 @@ LinkedIn:- https://www.linkedin.com/in/kaveri-kesharwani-a4b496393/
 Pinterest:- https://pinterest.com/Kaverikesharwani
 YouTube :- https://www.youtube.com/@kaverikesharwani9249
 
-💻 Tech Stack:
-Java HTML5 MySQL CSS3 JavaScript TypeScript Firebase Render Netlify Vercel Bootstrap jQuery JWT Express.js Next JS NodeJS React React Router MySQL MongoDB Supabase Canva Adobe Photoshop Figma GitHub Git Postman Power Bi
 
-📊 GitHub Stats:
-
-
-
-
-
-
-🏆 GitHub Trophies
-
-
-
-
-<!--
 **kaverikesharwani/kaverikesharwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
