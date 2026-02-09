@@ -1,6 +1,6 @@
 Hey there !!
 
-I’m Kaveri Kesharwani, a Computer Science graduate focused on full-stack web development and building practical applications. I enjoy understanding how software works end-to-end through project-based learning.
+I’m Kaveri Kesharwani, a CSE grad focused on full-stack web development and building practical applications. I enjoy understanding how software works end-to-end through project-based learning.
 
  🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KaveriKesharwani)
