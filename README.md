@@ -1,5 +1,26 @@
 Hey there !!
 
+💫 About Me:
+I’m Kaveri Kesharwani, a Computer Science graduate focused on full-stack web development and building practical applications. I enjoy understanding how software works end-to-end through project-based learning.
+
+🌐 Socials:
+[Facebook](https://facebook.com/Facebook: https://facebook.com/Kaveri Kesharwani) [Instagram](https://instagram.com/Instagram: https://instagram.com/kaverikesharwani_) LinkedIn [Pinterest](https://pinterest.com/Pinterest: https://pinterest.com/Kaverikesharwani) Quora YouTube [Mastodon](https://mastodon.social/@kaveri Kesharwani) email
+
+💻 Tech Stack:
+Java HTML5 MySQL CSS3 JavaScript TypeScript Firebase Render Netlify Vercel Bootstrap jQuery JWT Express.js Next JS NodeJS React React Router MySQL MongoDB Supabase Canva Adobe Photoshop Figma GitHub Git Postman Power Bi
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+
+
 <!--
 **kaverikesharwani/kaverikesharwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
